@@ -2,7 +2,7 @@ Nombre de la escuela:
 ## Universidad Tecnologica de la Sierra Hidalguense
 
 Nombre de la materia:
-## Aplicaciones Web Progresivas
+## Desarrollo Móvil Integral
 
 Nombre del alumno:
 ## Jaime Soni Bustos
